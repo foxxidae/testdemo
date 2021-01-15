@@ -1,0 +1,5 @@
+/**
+	* 完成课时
+	* @example finishLesson(1);
+	* @param {Number} lesson 课程
+*/
